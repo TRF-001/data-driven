@@ -41,7 +41,7 @@
   
   .formDiv{
     /* overflow: hidden; */
-    white-space: pre;
+    white-space: normal;
     margin: 20px;
   }
 
